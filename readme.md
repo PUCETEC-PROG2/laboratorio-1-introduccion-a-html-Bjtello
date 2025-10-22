@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [Bryan Tello]
+**Nombre:** Bryan Jorge Tello Faz
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
