@@ -1,0 +1,31 @@
+body {
+    background-color: #36b33cb4;
+    /*background-image: url("OIP.webp");
+    background-size: cover; */
+    color: #ffffff;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 100px;
+    color: rgb(237, 237, 255);
+    font-weight: bold;
+}
+
+.social-network {
+    font-family: sans-serif;
+    font-size: 10px;
+    line-height: 0px;
+    color: rgb(205, 205, 232);
+}
+
+#academics {
+    color: rgb(143, 141, 21);
+}
+
+.profile {
+    border-style: ridge;
+    border-color: #c4c8fd;
+    border-radius: 50%;
+    width: 200px;
+}
